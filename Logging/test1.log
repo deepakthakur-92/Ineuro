@@ -1,52 +1,57 @@
-2021-10-06 08:44:40,779 - INFO - This is starting of my program
-2021-10-06 08:44:41,312 - WARNING - giving you warnign to modify your program
-2021-10-06 08:44:41,974 - ERROR - This is error message
-2021-10-06 08:45:01,372 - CRITICAL - This is the blocker issue in your program
-2021-10-06 08:45:49,450 - INFO - This is starting of my program
-2021-10-06 08:45:49,705 - WARNING - giving you warnign to modify your program
-2021-10-06 08:45:49,950 - ERROR - This is error message
-2021-10-06 08:45:50,473 - CRITICAL - This is the blocker issue in your program
-2021-10-06 08:46:04,528 - INFO - This is starting of my program
-2021-10-06 08:46:04,759 - WARNING - giving you warnign to modify your program
-2021-10-06 08:46:05,779 - ERROR - This is error message
-2021-10-06 08:46:26,788 - ERROR - error has occured
-2021-10-06 08:46:26,790 - ERROR - division by zero
+2021-05-27 15:30:34,866 - INFO - I am going to start my program
+2021-05-27 15:30:35,429 - WARNING - This is going to be first warning of my program so modify it
+2021-05-27 15:30:35,872 - ERROR - This is a message for error
+2021-05-27 15:34:08,991 - ERROR - error has occured
+2021-05-27 15:34:08,991 - ERROR - division by zero
 Traceback (most recent call last):
-  File "<ipython-input-24-2865d7f468cb>", line 4, in test
+  File "<ipython-input-12-a2ed577c6b1b>", line 4, in test
     div = a/b
 ZeroDivisionError: division by zero
-2021-10-06 08:47:12,917 - INFO -                           
-2021-10-06 08:47:14,253 - ERROR - error has occured
-2021-10-06 08:47:14,253 - ERROR - division by zero
+2021-05-27 15:36:17,814 - ERROR - error has occured
+2021-05-27 15:36:17,814 - ERROR - division by zero
 Traceback (most recent call last):
-  File "<ipython-input-27-2865d7f468cb>", line 4, in test
+  File "<ipython-input-15-4288b9116b0a>", line 5, in test
     div = a/b
 ZeroDivisionError: division by zero
-2021-10-06 08:48:13,795 - INFO -                           
-2021-10-06 08:48:14,255 - ERROR - error has occured
-2021-10-06 08:48:14,255 - ERROR - division by zero
+2021-05-27 15:36:32,380 - INFO - 40
+2021-05-27 15:36:32,380 - ERROR - error has occured
+2021-05-27 15:36:32,381 - ERROR - division by zero
 Traceback (most recent call last):
-  File "<ipython-input-30-2865d7f468cb>", line 4, in test
+  File "<ipython-input-17-6054e4c92d5e>", line 5, in test
     div = a/b
 ZeroDivisionError: division by zero
-2021-10-06 08:48:17,206 - INFO -                           
-2021-10-06 08:48:18,619 - INFO -                           
-2021-10-06 08:48:19,782 - INFO -                           
-2021-10-06 08:48:20,670 - INFO -                           
-2021-10-06 08:51:49,897 - INFO - Addition function started
-2021-10-06 08:51:49,897 - WARNING - 3 argument should be given
-2021-10-06 08:52:04,856 - INFO - Addition function started
-2021-10-06 08:52:04,857 - WARNING - 3 argument should be given
-2021-10-06 08:52:04,857 - INFO - 1
-2021-10-06 08:52:04,857 - INFO - 2
-2021-10-06 08:52:04,857 - INFO - 3
-2021-10-06 08:52:04,857 - INFO - 6
-2021-10-06 08:52:24,100 - INFO -                           
-2021-10-06 08:52:25,408 - INFO -                           
-2021-10-06 08:52:26,285 - INFO -                           
-2021-10-06 08:52:31,962 - INFO - Addition function started
-2021-10-06 08:52:31,962 - WARNING - 3 argument should be given
-2021-10-06 08:52:31,962 - INFO - 1
-2021-10-06 08:52:31,962 - INFO - 2
-2021-10-06 08:52:31,962 - INFO - 3
-2021-10-06 08:52:31,962 - INFO - 6
+2021-05-27 15:43:15,905 - INFO - 40
+2021-05-27 15:43:15,905 - WARNING - Warning h be
+2021-05-27 15:43:15,905 - ERROR - error has occured
+2021-05-27 15:43:15,906 - ERROR - division by zero
+Traceback (most recent call last):
+  File "<ipython-input-19-77cfd528dcfe>", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-05-27 15:47:43,023 - INFO - This is start of the function
+2021-05-27 15:48:36,103 - INFO - This is start of the function
+2021-05-27 15:49:06,847 - INFO - This is start of the function
+2021-05-27 16:03:45,106 - INFO - This is my info log
+2021-05-27 16:03:45,107 - WARNING - This is my warning log
+2021-05-27 16:03:45,108 - ERROR - this is my error log
+2021-05-27 16:03:45,108 - ERROR - This is my exception log
+NoneType: None
+2021-05-27 16:50:05,596 - INFO - This is my addition function of int in a list
+2021-05-27 16:50:14,932 - INFO - This is my addition function of int in a list
+2021-05-27 16:50:14,932 - INFO - [1, 2, 3, 4, 5]
+2021-05-27 16:50:32,168 - INFO - This is my addition function of int in a list
+2021-05-27 16:50:32,169 - INFO - [1, 2, 3, 4, 5]
+2021-05-27 16:52:01,468 - INFO - This is my addition function of int in a list
+2021-05-27 16:52:01,468 - INFO - 1
+2021-05-27 16:52:12,395 - INFO - This is my addition function of int in a list
+2021-05-27 16:52:12,396 - INFO - 1
+2021-05-27 16:52:12,396 - INFO - 2
+2021-05-27 16:52:12,396 - INFO - 3
+2021-05-27 16:52:12,396 - INFO - 4
+2021-05-27 16:52:12,396 - INFO - 5
+2021-05-27 16:53:26,976 - INFO - This is my addition function of int in a list
+2021-05-27 16:53:26,977 - INFO - 1
+2021-05-27 16:53:26,977 - INFO - 2
+2021-05-27 16:53:26,977 - INFO - 3
+2021-05-27 16:53:26,977 - INFO - 4
+2021-05-27 16:53:26,978 - INFO - 5
